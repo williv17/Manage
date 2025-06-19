@@ -1,0 +1,8 @@
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_Tests
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_Tests
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Tests\obj\Debug\net9.0\Tests.csproj.AssemblyReference.cache
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Tests\obj\Debug\net9.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Tests\obj\Debug\net9.0\Tests.AssemblyInfoInputs.cache
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Tests\obj\Debug\net9.0\Tests.AssemblyInfo.cs
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Tests\obj\Debug\net9.0\Tests.csproj.CoreCompileInputs.cache
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Tests\obj\Debug\net9.0\Tests.sourcelink.json

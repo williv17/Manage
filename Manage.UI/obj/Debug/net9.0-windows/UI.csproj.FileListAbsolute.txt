@@ -1,0 +1,7 @@
+C:\Users\wilf\source\repos\williv17\Manage\Manage.UI\obj\Debug\net9.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\wilf\source\repos\williv17\Manage\Manage.UI\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\wilf\source\repos\williv17\Manage\Manage.UI\obj\Debug\net9.0-windows\Views\HomeView.g.cs
+C:\Users\wilf\source\repos\williv17\Manage\Manage.UI\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\wilf\source\repos\williv17\Manage\Manage.UI\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\wilf\source\repos\williv17\Manage\Manage.UI\obj\Debug\net9.0-windows\UI_MarkupCompile.cache
+C:\Users\wilf\source\repos\williv17\Manage\Manage.UI\obj\Debug\net9.0-windows\UI_MarkupCompile.lref

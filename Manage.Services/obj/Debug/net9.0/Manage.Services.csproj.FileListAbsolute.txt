@@ -1,0 +1,16 @@
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Services\bin\Debug\net9.0\Manage.Services.deps.json
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Services\bin\Debug\net9.0\Manage.Services.dll
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Services\bin\Debug\net9.0\Manage.Services.pdb
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Services\obj\Debug\net9.0\Manage.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Services\obj\Debug\net9.0\Manage.Services.AssemblyInfoInputs.cache
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Services\obj\Debug\net9.0\Manage.Services.AssemblyInfo.cs
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Services\obj\Debug\net9.0\Manage.Services.csproj.CoreCompileInputs.cache
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Services\obj\Debug\net9.0\Manage.Services.sourcelink.json
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Services\obj\Debug\net9.0\Manage.Services.dll
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Services\obj\Debug\net9.0\refint\Manage.Services.dll
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Services\obj\Debug\net9.0\Manage.Services.pdb
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Services\obj\Debug\net9.0\ref\Manage.Services.dll
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Services\bin\Debug\net9.0\Manage.Core.dll
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Services\bin\Debug\net9.0\Manage.Core.pdb
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Services\obj\Debug\net9.0\Manage.Services.csproj.AssemblyReference.cache
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Services\obj\Debug\net9.0\Manage.S.E80CF9CD.Up2Date

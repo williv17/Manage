@@ -1,0 +1,12 @@
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Data\bin\Debug\net9.0\Manage.Data.deps.json
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Data\bin\Debug\net9.0\Manage.Data.dll
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Data\bin\Debug\net9.0\Manage.Data.pdb
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Data\obj\Debug\net9.0\Manage.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Data\obj\Debug\net9.0\Manage.Data.AssemblyInfoInputs.cache
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Data\obj\Debug\net9.0\Manage.Data.AssemblyInfo.cs
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Data\obj\Debug\net9.0\Manage.Data.csproj.CoreCompileInputs.cache
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Data\obj\Debug\net9.0\Manage.Data.sourcelink.json
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Data\obj\Debug\net9.0\Manage.Data.dll
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Data\obj\Debug\net9.0\refint\Manage.Data.dll
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Data\obj\Debug\net9.0\Manage.Data.pdb
+C:\Users\wilf\source\repos\williv17\Manage\Manage.Data\obj\Debug\net9.0\ref\Manage.Data.dll
