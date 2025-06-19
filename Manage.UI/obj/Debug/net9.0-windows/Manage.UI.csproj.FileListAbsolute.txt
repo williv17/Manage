@@ -31,3 +31,4 @@ C:\Users\wilf\source\repos\williv17\Manage\Manage.UI\obj\Debug\net9.0-windows\Ge
 C:\Users\wilf\source\repos\williv17\Manage\Manage.UI\obj\Debug\net9.0-windows\Views\HomeView.baml
 C:\Users\wilf\source\repos\williv17\Manage\Manage.UI\bin\Debug\net9.0-windows\Data.dll
 C:\Users\wilf\source\repos\williv17\Manage\Manage.UI\bin\Debug\net9.0-windows\Data.pdb
+C:\Users\wilf\source\repos\williv17\Manage\Manage.UI\obj\Debug\net9.0-windows\App.baml

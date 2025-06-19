@@ -63,3 +63,13 @@ Generated_Code/
 
 # User secrets
 secrets.json
+
+# GitHub Copilot local cache and indices
+.copilot/
+.copilotindices/
+.idea/.copilotindices/
+.idea/.filecontextindex/
+
+# Visual Studio workspace cache
+.vs/
+
