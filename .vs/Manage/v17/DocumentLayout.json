@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{4F13B74A-45A9-4871-A788-65AFA46F9AF8}|Manage.UI\\Manage.UI.csproj|solutionrelative:manage.ui\\views\\homeview.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E86CBFA1-2F4E-403E-B56D-9313524FF8AD}|Manage.Services\\Services.csproj|c:\\users\\wilf\\source\\repos\\williv17\\manage\\manage.services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E86CBFA1-2F4E-403E-B56D-9313524FF8AD}|Manage.Services\\Services.csproj|solutionrelative:manage.services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C3FDDE0D-FBCC-4362-861B-73951E6B6308}|Manage.Core\\Manage.Core.csproj|c:\\users\\wilf\\source\\repos\\williv17\\manage\\manage.core\\services\\inavigable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3FDDE0D-FBCC-4362-861B-73951E6B6308}|Manage.Core\\Manage.Core.csproj|solutionrelative:manage.core\\services\\inavigable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,16 +15,20 @@
       "RelativeMoniker": "D:0:0:{C3FDDE0D-FBCC-4362-861B-73951E6B6308}|Manage.Core\\Manage.Core.csproj|solutionrelative:manage.core\\services\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F13B74A-45A9-4871-A788-65AFA46F9AF8}|Manage.UI\\UI.csproj|c:\\users\\wilf\\source\\repos\\williv17\\manage\\manage.ui\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F13B74A-45A9-4871-A788-65AFA46F9AF8}|Manage.UI\\UI.csproj|solutionrelative:manage.ui\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E86CBFA1-2F4E-403E-B56D-9313524FF8AD}|Manage.Services\\Manage.Services.csproj|c:\\users\\wilf\\source\\repos\\williv17\\manage\\manage.services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86CBFA1-2F4E-403E-B56D-9313524FF8AD}|Manage.Services\\Manage.Services.csproj|solutionrelative:manage.services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F13B74A-45A9-4871-A788-65AFA46F9AF8}|Manage.UI\\UI.csproj|c:\\users\\wilf\\source\\repos\\williv17\\manage\\manage.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4F13B74A-45A9-4871-A788-65AFA46F9AF8}|Manage.UI\\UI.csproj|solutionrelative:manage.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4F13B74A-45A9-4871-A788-65AFA46F9AF8}|Manage.UI\\Manage.UI.csproj|c:\\users\\wilf\\source\\repos\\williv17\\manage\\manage.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F13B74A-45A9-4871-A788-65AFA46F9AF8}|Manage.UI\\Manage.UI.csproj|solutionrelative:manage.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F13B74A-45A9-4871-A788-65AFA46F9AF8}|Manage.UI\\UI.csproj|c:\\users\\wilf\\source\\repos\\williv17\\manage\\manage.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F13B74A-45A9-4871-A788-65AFA46F9AF8}|Manage.UI\\UI.csproj|solutionrelative:manage.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F13B74A-45A9-4871-A788-65AFA46F9AF8}|Manage.UI\\Manage.UI.csproj|c:\\users\\wilf\\source\\repos\\williv17\\manage\\manage.ui\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F13B74A-45A9-4871-A788-65AFA46F9AF8}|Manage.UI\\Manage.UI.csproj|solutionrelative:manage.ui\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F13B74A-45A9-4871-A788-65AFA46F9AF8}|Manage.UI\\Manage.UI.csproj|c:\\users\\wilf\\source\\repos\\williv17\\manage\\manage.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F13B74A-45A9-4871-A788-65AFA46F9AF8}|Manage.UI\\Manage.UI.csproj|solutionrelative:manage.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -60,14 +60,14 @@
               "RelativeDocumentMoniker": "Manage.UI\\Views\\HomeView.xaml",
               "ToolTip": "C:\\Users\\wilf\\source\\repos\\williv17\\Manage\\Manage.UI\\Views\\HomeView.xaml",
               "RelativeToolTip": "Manage.UI\\Views\\HomeView.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAABoZmZmZiYwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-19T22:47:02.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "NavigationService.cs",
               "DocumentMoniker": "C:\\Users\\wilf\\source\\repos\\williv17\\Manage\\Manage.Services\\NavigationService.cs",
               "RelativeDocumentMoniker": "Manage.Services\\NavigationService.cs",
@@ -75,16 +75,11 @@
               "RelativeToolTip": "Manage.Services\\NavigationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwCEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T22:24:00.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "WhenOpened": "2025-06-19T22:24:00.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "INavigable.cs",
               "DocumentMoniker": "C:\\Users\\wilf\\source\\repos\\williv17\\Manage\\Manage.Core\\Services\\INavigable.cs",
               "RelativeDocumentMoniker": "Manage.Core\\Services\\INavigable.cs",
@@ -92,12 +87,11 @@
               "RelativeToolTip": "Manage.Core\\Services\\INavigable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T22:40:55.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T22:40:55.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "INavigationService.cs",
               "DocumentMoniker": "C:\\Users\\wilf\\source\\repos\\williv17\\Manage\\Manage.Core\\Services\\INavigationService.cs",
               "RelativeDocumentMoniker": "Manage.Core\\Services\\INavigationService.cs",
@@ -105,24 +99,22 @@
               "RelativeToolTip": "Manage.Core\\Services\\INavigationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T22:33:43.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T22:33:43.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\wilf\\source\\repos\\williv17\\Manage\\Manage.UI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Manage.UI\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\wilf\\source\\repos\\williv17\\Manage\\Manage.UI\\MainWindow.xaml",
               "RelativeToolTip": "Manage.UI\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-19T08:06:41.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T08:06:41.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HomeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\wilf\\source\\repos\\williv17\\Manage\\Manage.UI\\ViewModels\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "Manage.UI\\ViewModels\\HomeViewModel.cs",
@@ -130,8 +122,7 @@
               "RelativeToolTip": "Manage.UI\\ViewModels\\HomeViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T08:23:20.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T08:23:20.242Z"
             },
             {
               "$type": "Document",
@@ -143,8 +134,11 @@
               "RelativeToolTip": "Manage.UI\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAawBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T08:07:44.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T08:07:44.569Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
